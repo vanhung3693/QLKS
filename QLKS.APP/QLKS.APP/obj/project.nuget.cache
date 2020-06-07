@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPSKah56aiQ4tEqKbMVWM0BzJUUPEcBPyLA58XN2NSTjK2Jdib9HMdZXKkfm9GY2d25D2UR8uLj0UX9aNhbexA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.APP\\QLKS.APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KVH\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\prism.unity\\7.2.0.1422\\prism.unity.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\unity.abstractions\\5.11.1\\unity.abstractions.5.11.1.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\unity.container\\5.11.1\\unity.container.5.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

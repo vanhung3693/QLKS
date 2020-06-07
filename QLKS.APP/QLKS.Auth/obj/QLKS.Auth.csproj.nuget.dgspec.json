@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.Auth\\QLKS.Auth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.Auth\\QLKS.Auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.Auth\\QLKS.Auth.csproj",
+        "projectName": "QLKS.Auth",
+        "projectPath": "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.Auth\\QLKS.Auth.csproj",
+        "packagesPath": "C:\\Users\\KVH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.Auth\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KVH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

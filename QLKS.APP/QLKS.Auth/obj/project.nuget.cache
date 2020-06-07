@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ci2cRfv3nUgqngtUj48W42Zoj+FwhV1SAfKdO5Nakdi5Dcy0kp8OytaMacDfq14n/N8bl3Duw6qOic8QT2pYvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KVH\\source\\repos\\QLKS.APP\\QLKS.Auth\\QLKS.Auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KVH\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\KVH\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
