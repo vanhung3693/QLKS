@@ -1,12 +1,10 @@
 ﻿<Window x:Class="QLKS.Auth.Views.LoginForm"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:prism="http://prismlibrary.com/"            
-             AllowsTransparency="True" Background="Transparent"
-             WindowStyle="None" ResizeMode="NoResize"
+             xmlns:prism="http://prismlibrary.com/" Background="Transparent" ResizeMode="NoResize"
              Title="LoginForm" Height="450" Width="380"
              WindowStartupLocation="CenterScreen"
-             prism:ViewModelLocator.AutoWireViewModel="True">
+             prism:ViewModelLocator.AutoWireViewModel="True" WindowStyle="None">
     <Grid>
         <Grid>
             <Grid.RowDefinitions>
@@ -22,7 +20,9 @@
                     </LinearGradientBrush>
                 </Border.Background>
             </Border>
-
+            <StackPanel>
+                <Label x:Name="btnClose" VerticalContentAlignment="Top" HorizontalContentAlignment="Right" Width="380" FontWeight="Bold" PreviewMouseLeftButtonDown="btnClose_PreviewMouseLeftButtonDown">X</Label>
+            </StackPanel>
             <StackPanel VerticalAlignment="Center">
                 <!--<Image Source="Images/House.png" Width="80"/>-->
                 <TextBlock Text="LoginForm"

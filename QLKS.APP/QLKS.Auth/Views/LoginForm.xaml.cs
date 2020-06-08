@@ -11,5 +11,10 @@ namespace QLKS.Auth.Views
         {
             InitializeComponent();
         }
+
+        private void btnClose_PreviewMouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+            this.Close();
+        }
     }
 }
